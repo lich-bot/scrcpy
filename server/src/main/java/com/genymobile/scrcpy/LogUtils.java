@@ -1,7 +1,7 @@
-package com.genymobile.scrcpy;
+package com.lich-bot.scrcpy;
 
-import com.genymobile.scrcpy.wrappers.DisplayManager;
-import com.genymobile.scrcpy.wrappers.ServiceManager;
+import com.lich-bot.scrcpy.wrappers.DisplayManager;
+import com.lich-bot.scrcpy.wrappers.ServiceManager;
 
 import android.graphics.Rect;
 import android.hardware.camera2.CameraAccessException;
