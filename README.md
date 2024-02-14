@@ -55,7 +55,7 @@ debugging (Security Settings)` (this is an item different from `USB debugging`)
 to control it using a keyboard and mouse. Rebooting the device is necessary once
 this option is set.
 
-[control]: https://github.com/Genymobile/scrcpy/issues/70#issuecomment-373286323
+[control]: https://github.com/lich-bot/scrcpy/issues/70#issuecomment-373286323
 
 Note that USB debugging is not required to run scrcpy in [OTG
 mode](doc/hid-otg.md#otg).
@@ -111,30 +111,17 @@ documented in the following pages:
 
 If you encounter a bug, please read the [FAQ](FAQ.md) first, then open an [issue].
 
-[issue]: https://github.com/Genymobile/scrcpy/issues
+[issue]: https://github.com/lich-bot/scrcpy/issues
 
 For general questions or discussions, you can also use:
 
  - Reddit: [`r/scrcpy`](https://www.reddit.com/r/scrcpy)
  - Twitter: [`@scrcpy_app`](https://twitter.com/scrcpy_app)
 
+## License
 
-## Donate
-
-I'm [@rom1v](https://github.com/rom1v), the author and maintainer of _scrcpy_.
-
-If you appreciate this application, you can [support my open source
-work][donate]:
- - [GitHub Sponsors](https://github.com/sponsors/rom1v)
- - [Liberapay](https://liberapay.com/rom1v/)
- - [PayPal](https://paypal.me/rom2v)
-
-[donate]: https://blog.rom1v.com/about/#support-my-open-source-work
-
-## Licence
-
-    Copyright (C) 2018 Genymobile
-    Copyright (C) 2018-2023 Romain Vimont
+    Copyright (C) 2000 vecna-the-eternal
+    Copyright (C) 2000-2024 lich-bot
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
